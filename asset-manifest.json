@@ -1,12 +1,15 @@
 {
-  "main.css": "static/css/main.55a52e0a.css",
-  "main.css.map": "static/css/main.55a52e0a.css.map",
-  "main.js": "static/js/main.f89b34c3.js",
-  "main.js.map": "static/js/main.f89b34c3.js.map",
-  "static/media/01.jpg": "static/media/01.345c09b6.jpg",
-  "static/media/02.jpg": "static/media/02.9002034d.jpg",
-  "static/media/03.jpg": "static/media/03.9320613d.jpg",
-  "static/media/overlay_bg.svg": "static/media/overlay_bg.1ad5d795.svg",
-  "static/media/ralogo.svg": "static/media/ralogo.2e74511b.svg",
-  "static/media/spbflogo.svg": "static/media/spbflogo.88fc319c.svg"
+  "main.css": "static/css/main.2620b7d9.css",
+  "main.css.map": "static/css/main.2620b7d9.css.map",
+  "main.js": "static/js/main.c462f0f7.js",
+  "main.js.map": "static/js/main.c462f0f7.js.map",
+  "static\\media\\01.jpg": "static/media/01.5dc30e6f.jpg",
+  "static\\media\\02.jpg": "static/media/02.6904b340.jpg",
+  "static\\media\\03.jpg": "static/media/03.04cf3b21.jpg",
+  "static\\media\\dummy_bg.jpg": "static/media/dummy_bg.40c34c7a.jpg",
+  "static\\media\\overlay_bg.svg": "static/media/overlay_bg.c4e24270.svg",
+  "static\\media\\ralogo.svg": "static/media/ralogo.56f68634.svg",
+  "static\\media\\spbflogo.svg": "static/media/spbflogo.768b09f4.svg",
+  "static\\media\\video.mp4": "static/media/video.23888cbe.mp4",
+  "static\\media\\video.webm": "static/media/video.92dc35ff.webm"
 }
